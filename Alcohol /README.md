@@ -1,4 +1,4 @@
-# Using Probatch package to remove the batch effect in the Mice brain due to Alcohol 
+# Applying Probatch to eliminate batch effects in the mouse brain data under influence of alcohol.
 
 
 ### Probatch Package?
